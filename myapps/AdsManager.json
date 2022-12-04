@@ -1,0 +1,22 @@
+{
+  "AppADS" : {
+    "ADTYPE" : {
+      "ad_type" : "fan"
+    },
+    "FAN" : {
+      "Fan_Banner_Id" : "IMG_16_9_APP_INSTALL#4839518162789497_4839524772788836",
+	  "Fan_Interstitial_Id" : "IMG_16_9_APP_INSTALL#4839518162789497_4839522656122381",
+    "Fan_Native_Banner_Id" : "IMG_16_9_APP_INSTALL#4839518162789497_4839522656122381"
+    },
+    "ADMOB" : {
+      "Admob_Banner_Id" : "ca-app-pub-3940256099942544/6300978111",
+      "Admob_Interstitial_Id" : "ca-app-pub-3940256099942544/1033173712",
+      "Admob_Native_Id" : "ca-app-pub-3940256099942544/2247696110"
+    },
+	"IRONSOURCE" : {
+      "AppKey" : "14faef1f1"
+    }
+	
+
+  }
+}
