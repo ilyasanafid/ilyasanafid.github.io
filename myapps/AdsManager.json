@@ -1,7 +1,7 @@
 {
   "AppADS" : {
     "ADTYPE" : {
-      "ad_type" : "fan"
+      "ad_type" : "admob"
     },
     "FAN" : {
       "Fan_Banner_Id" : "IMG_16_9_APP_INSTALL#4839518162789497_4839524772788836",
